@@ -1,7 +1,9 @@
 import { useState, useMemo } from 'react';
 import { Search, Gamepad2, X, Maximize2, ExternalLink } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
-import gamesData from './games.json';
+import rawGamesData from './games.json';
+
+const gamesData = Array.isArray(rawGamesData) ? rawGamesData : (rawGamesData.default || []);
 
 export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
