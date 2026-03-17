@@ -4,41 +4,47 @@
     "title": "2048",
     "thumbnail": "https://picsum.photos/seed/2048/400/300",
     "url": "https://play2048.co/",
-    "description": "Join the numbers and get to the 2048 tile!"
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle"
   },
   {
     "id": "tetris",
     "title": "Tetris",
     "thumbnail": "https://picsum.photos/seed/tetris/400/300",
     "url": "https://tetris.com/play-tetris",
-    "description": "The classic block-stacking puzzle game."
+    "description": "The classic block-stacking puzzle game.",
+    "category": "Puzzle"
   },
   {
     "id": "flappy-bird",
     "title": "Flappy Bird Clone",
     "thumbnail": "https://picsum.photos/seed/bird/400/300",
     "url": "https://flappybird.io/",
-    "description": "Flap your wings and avoid the pipes."
+    "description": "Flap your wings and avoid the pipes.",
+    "category": "Arcade"
   },
   {
     "id": "snake",
     "title": "Snake",
     "thumbnail": "https://picsum.photos/seed/snake/400/300",
     "url": "https://www.google.com/logos/2010/pacman10-i.html",
-    "description": "Classic Snake game (Pacman 30th Anniversary Doodle used as example)."
+    "description": "Classic Snake game (Pacman 30th Anniversary Doodle used as example).",
+    "category": "Classic"
   },
   {
     "id": "dino",
     "title": "Chrome Dino",
     "thumbnail": "https://picsum.photos/seed/dino/400/300",
     "url": "https://chromedino.com/",
-    "description": "The famous offline dinosaur runner."
+    "description": "The famous offline dinosaur runner.",
+    "category": "Runner"
   },
   {
     "id": "sudoku",
     "title": "Sudoku",
     "thumbnail": "https://picsum.photos/seed/sudoku/400/300",
     "url": "https://www.websudoku.com/",
-    "description": "Challenge your brain with classic Sudoku puzzles."
+    "description": "Challenge your brain with classic Sudoku puzzles.",
+    "category": "Puzzle"
   }
 ]
